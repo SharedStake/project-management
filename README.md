@@ -1,5 +1,5 @@
 # project-management
-Project management repo
+Project management repo for Sharedstake
 
 Issues in this repo serve as a request for volunteers and tasks.  
 
